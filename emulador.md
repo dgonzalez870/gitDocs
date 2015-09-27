@@ -13,11 +13,23 @@ Si no se dispones de [un dispositivo físico debuggable]() es posible ejecutar l
 
 La **densidad de pantalla** es la cantidad de pixeles por unidad de medida, generalmente expresada en puntos por pulgada **(dpi)**, en android se han definido seis grupos generales de densidad:
 
-Identificador | Descripción | Densidad aproximada (dpi)
+Grupo | Descripción | Densidad aproximada (dpi)
 --- | --- | ---
  **ldpi** | (baja) | 120 
  **mdpi** | (media) | 160 
  **hdpi** | (alta) | 240 
  **xhdpi** | (extra alta) | 320 
  **xxhdpi** | (extra-extra alta) | 480 
- **xxxxhdpi** | (extra-extra-extra alta) | 640 
+ **xxxxhdpi** | (extra-extra-extra alta) | 640
+4. Seleccionar **3.2" HVGA** y **Next**
+![](/capturas/system_image.png)
+5. Seleccionar **Gingerbread API 10** y **Next**.
+6. En el siguiente diálogo modificar el campo nombre, en este caso se coloca **gingerbread2.3.3Api10screen3.2mdpi** y seleccionar **Finish**
+![](/capturas/avd_very.png "Fin de La configuración")
+
+<div>
+<a href="dispositivo.md">
+<div align="right">Siguiente: Configurar un Dispositivo Físico</div></a>
+<a href="emulador.md">
+<span align="left">Anterior: Configurar un Emulador</span></a>
+</div>
