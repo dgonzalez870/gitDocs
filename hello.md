@@ -1,7 +1,7 @@
 # Creación de un proyecto en Android Studio
 
 ##Objetivo
-Desarrolla una aplicación android.
+Desarrollar una aplicación android.
 
 ##Objetivos Específicos
 
@@ -24,7 +24,7 @@ A continuación se describen los pasos para crear un proyecto básico en **Andro
 3. En **Application name** colocar **Hola Android**.
 4. En Company domain colocar cualquier nombre, por ejemplo **miDominio**.
 5. Editar **Package name** y colocar **com.prueba.holaAndroid** y hacer click en **Next**.
-6. En el siguiente diálogo dejar marcada la opción **Phone and Tablet** y seleccionar Minimun SDK API 9: Android 2.3 (Gingerbread).
+6. En el siguiente diálogo dejar marcada la opción **Phone and Tablet** y seleccionar Minimun SDK API 10: Android 2.3 (Gingerbread).
 7. Seleccionar **Add no Activity** y click sobre **Finish**
 ![Add No Activity](/capturas/adnoactivity.png)
 8. En el explorador del proyecto, ubicado en la parte izquierda de la pantalla, en vista modo **Android**, ir al nodo **app>manifest>AndroidManifest.xml**.

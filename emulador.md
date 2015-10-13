@@ -1,6 +1,6 @@
 #Configuración de un Emulador para la prueba de las Aplicaciones.
 
-Si no se dispones de [un dispositivo físico debuggable]() es posible ejecutar la aplicación en un emulador, en esta sección se describen los pasos necesarios para conficurar un emulador.
+Si no se dispone de [un dispositivo físico debuggable]() es posible ejecutar la aplicación en un emulador, en esta sección se describen los pasos necesarios para configurar un emulador.
 
 1. En primer lugar se debe ejecutar el **SDK Manager**, esto se puede hacer desde **Android Studio** haciendo click sobre el ícono 
 ![icono](/capturas/ini_sdk.png). Otra manera es através de la barra de menú **Tools>Android>SDK Manager**

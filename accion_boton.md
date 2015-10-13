@@ -19,6 +19,8 @@ Ir a la clase **MainActivity** y agregar un método público con nombre **saluda
     }
 ```
 
+![](/capturas/btn_xml_java.png) 
+
 El argumento **View** del método le dice al sistema que está asociado a la acción de una vista de la interfaz de usuario.
 
 El objetivo es que cuando se presione un botón se presente un mensaje en pantalla, para este fin se utiliza un [**Toast**](http://developer.android.com/reference/android/widget/Toast.html).

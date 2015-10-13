@@ -1,7 +1,7 @@
 #Introducción a la internacionalización de aplicaciones en Android
 En esta sección se explica como crear recursos para que el sistema adapte automáticamente el idioma de nuestra aplicación según la configuración de idioma del dispositivo en el que se ejecuta (el código completo de esta sección se encuentra en este [enlace](https://github.com/dgonzalez870/HolaAndroid/tree/Idiomas)).
 
-1.- En el proyecto [HolaAndroid](https://github.com/dgonzalez870/GUIAS/wiki/Hola-Mundo-Android-Studio) o en cualquier otro, ir a la carpeta **res** en el explorador del proyecto y hacer click derecho sobre esta, seleccionar **New>Android resource directory**, en la opción nombre colocar **values-es**, es representa el código ISO pata el lenguaje español. Repetir este procedimiento para crear otro directoriocon el nombre **values-en**.
+1.- En el proyecto [HolaAndroid](https://github.com/dgonzalez870/GUIAS/wiki/Hola-Mundo-Android-Studio) o en cualquier otro, ir a la carpeta **res** en el explorador del proyecto y hacer click derecho sobre esta, seleccionar **New>Android resource directory**, en la opción nombre colocar **values-es**, es representa el código ISO para el lenguaje español. Repetir este procedimiento para crear otro directorio con el nombre **values-en**.
 
 2.- Cambiar la vista al modo **explorador de paquete**
 

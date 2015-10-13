@@ -7,7 +7,7 @@ El método para iniciar un [**Activity**](http://developer.android.com/reference
 En el proyecto [HolaAndroid]() crear un nuevo layout.
 ![](/capturas/crear_layout.png).
 
-Colocar en nombre **layout_saludo** y en **Root Tag** **RelativeLayout**, envista de diseño arrastrar un elemento **TextView** al centro del Layout, modificar las siguientes propiedades en el **TextView:**
+Colocar en nombre **layout_saludo** y en **Root Tag** **RelativeLayout**, en vista de diseño arrastrar un elemento **TextView** al centro del Layout, modificar las siguientes propiedades en el **TextView:**
 
 * **text:** @string/string_saludo
 * **textSize:** 40 sp.
